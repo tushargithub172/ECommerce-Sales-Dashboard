@@ -69,7 +69,7 @@ The **E-Commerce Sales Dashboard** visualizes critical business data in an intui
 ---
 
 ## 📷 Dashboard Preview  
-![Dashboard Screenshot](<img width="589" alt="ScreenshotECommerceSalesDashboard" src="https://github.com/user-attachments/assets/5de22bcc-65c3-40f7-b7ab-8bfd3af689b2" />
+(<img width="589" alt="ScreenshotECommerceSalesDashboard" src="https://github.com/user-attachments/assets/5de22bcc-65c3-40f7-b7ab-8bfd3af689b2" />
 
 ---
 
